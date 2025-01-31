@@ -1,0 +1,18 @@
+Privacy Policy (PP) for MeshPro
+1. Data Collection
+MeshPro collects minimal information, including your Discord user ID and username. This data is used to deliver the bot's features, including fetching and displaying Fortnite asset data.
+
+2. Data Usage
+Your user ID and username are used solely for providing personalized services within the bot and will not be shared with third parties.
+
+3. Data Storage
+MeshPro stores your user data only for as long as necessary to provide its services. Data may be deleted upon your request or if you stop using the bot.
+
+4. Data Security
+We take appropriate measures to protect the data you share with MeshPro, but no method of transmission over the internet is 100% secure.
+
+5. User Rights
+You have the right to request a copy of the data we hold about you or request its deletion at any time by contacting the bot administrators.
+
+6. Changes to the Privacy Policy
+Any changes to this Privacy Policy will be communicated through updates to the bot.
