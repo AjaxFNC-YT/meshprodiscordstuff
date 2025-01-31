@@ -1,0 +1,18 @@
+Terms of Service (TOS) for MeshPro
+1. Acceptance of Terms
+By using MeshPro, you agree to comply with and be bound by these Terms of Service. If you do not agree with these terms, please do not use the bot.
+
+2. Usage
+MeshPro is a Discord bot that interacts with users by fetching asset data from Fortnite and storing minimal user information, such as your Discord user ID and username. The bot is available for use on Discord servers at your discretion.
+
+3. Data Collection
+MeshPro collects your Discord user ID and username to personalize the experience and link your data to the Fortnite assets it fetches.
+
+4. User Responsibility
+You agree not to use MeshPro for any malicious or illegal activities, including spamming or harassment. You are responsible for your actions while using the bot.
+
+5. Termination
+MeshPro may suspend or terminate your access to the bot at any time, without notice, if you violate these terms.
+
+6. Modifications
+MeshPro reserves the right to update or modify these terms at any time. Changes will be communicated via bot updates.
